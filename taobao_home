@@ -1,0 +1,70 @@
+<div class="J_TWidget tincal20141202133155trigger" data-widget-config="{&quot;effect&quot;: &quot;fade&quot;, &quot;circular&quot;: true ,&quot;contentCls&quot;:&quot;piao143102133155&quot;}" data-widget-type="Tabs" style="height:550px;overflow:hidden;">
+	<div class="piao143102133155" style="height:550px;">
+		<div class="footer-more-trigger" style="width:1920px;height:550px;top:auto;padding:0px;border:none;left:50%;">
+			<div class="footer-more-trigger" style="width:1920px;height:550px;padding:0px;border:none;left:-50%;">
+				<div class="J_TWidget" data-widget-config="{&quot;effect&quot;:&quot;scrollx&quot;,&quot;easing&quot;:&quot;elasticOut&quot;,&quot;autoplay&quot;:true,&quot;prevBtnCls&quot;:&quot;pre141202133155trigger&quot;,&quot;nextBtnCls&quot;:&quot;next141202133155trigger&quot;,&quot;contentCls&quot;: &quot;carousel20141202133155content&quot;,&quot;navCls&quot;: &quot;carousel20141202133155trigger&quot;,&quot;duration&quot;:&quot;1.5&quot;,&quot;interval&quot;:&quot;3&quot;,&quot;autoplay&quot;:true}" data-widget-type="Carousel">
+					<div style="width:1920px;height:550px;overflow:hidden;">
+						<ul class="carousel20141202133155content">
+							<li>
+								 <span><span><a data-attr-replace="[{&quot;type&quot;:&quot;href&quot;,&quot;desc&quot;:&quot;http://tincal.taobao.com&quot;}]" target="_blank"><img border="0" data-attr-replace="[{&quot;type&quot;:&quot;img&quot;,&quot;desc&quot;:&quot;&quot;}]" data-ks-lazyload="//gdp.alicdn.com/imgextra/i4/788358641/O1CN01sNLN1z2DhcwXFDTvM_!!788358641.png" height="550" src="//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif" width="1920" /></a></span></span>
+							</li>
+							<li>
+								 <span><span><a data-attr-replace="[{&quot;type&quot;:&quot;href&quot;,&quot;desc&quot;:&quot;http://tincal.taobao.com&quot;}]" target="_blank"><img border="0" data-attr-replace="[{&quot;type&quot;:&quot;img&quot;,&quot;desc&quot;:&quot;&quot;}]" data-ks-lazyload="//gdp.alicdn.com/imgextra/i3/788358641/O1CN010AYfWb2DhcwXXET1g_!!788358641.png" height="550" src="//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif" width="1920" /></a></span></span>
+							</li>
+							<li>
+								 <span><span><a data-attr-replace="[{&quot;type&quot;:&quot;href&quot;,&quot;desc&quot;:&quot;http://tincal.taobao.com&quot;}]" target="_blank"><img border="0" data-attr-replace="[{&quot;type&quot;:&quot;img&quot;,&quot;desc&quot;:&quot;&quot;}]" data-ks-lazyload="//gdp.alicdn.com/imgextra/i4/788358641/O1CN014frNSU2Dhcwa5dz2A_!!788358641.png" height="550" src="//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif" width="1920" /></a></span></span>
+							</li>
+							<li>
+								 <span><span><a data-attr-replace="[{&quot;type&quot;:&quot;href&quot;,&quot;desc&quot;:&quot;http://tincal.taobao.com&quot;}]" target="_blank"><img border="0" data-attr-replace="[{&quot;type&quot;:&quot;img&quot;,&quot;desc&quot;:&quot;&quot;}]" data-ks-lazyload="//gdp.alicdn.com/imgextra/i3/788358641/O1CN01lhqY702DhcwXDfDB2_!!788358641.png" height="550" src="//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif" width="1920" /></a></span></span>
+							</li>
+						</ul>
+					</div>
+					<div class="footer-more-trigger" style="border-bottom:medium none;border-left:medium none;padding-bottom:0px;padding-left:0px;width:127px;padding-right:0px;height:28px;border-top:medium none;top:512px;border-right:medium none;padding-top:0px;left:930px;">
+						<ul class="carousel20141202133155trigger">
+							<li class="pop1141202133155" style="display:inline;float:left;cursor:pointer;">
+								<div style="width:28px;background:url(//gdp.alicdn.com/imgextra/i3/788358641/O1CN01ZcBWHp2DhcwUa91kr_!!788358641.png) no-repeat 0px -28px;height:28px;">
+									 <span>&nbsp;</span>
+								</div>
+								<div class="J_TWidget" data-widget-config="{&quot;trigger&quot;:&quot;.pop1141202133155&quot;,&quot;align&quot;:{&quot;node&quot;:&quot;.pop1141202133155&quot;,&quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;],&quot;offset&quot;:[0,0]}}" data-widget-type="Popup" style="display:none;">
+									<div class="shangyizhang" style="width:28px;background:url(//gdp.alicdn.com/imgextra/i3/788358641/O1CN01ZcBWHp2DhcwUa91kr_!!788358641.png) no-repeat;height:28px;cursor:pointer;">
+										 <span>&nbsp;</span>
+									</div>
+								</div>
+							</li>
+							<li class="pop2141202133155" style="display:inline;float:left;margin-left:5px;cursor:pointer;">
+								<div style="width:28px;background:url(//gdp.alicdn.com/imgextra/i3/788358641/O1CN01ZcBWHp2DhcwUa91kr_!!788358641.png) no-repeat -28px -28px;height:28px;">
+									 <span>&nbsp;</span>
+								</div>
+								<div class="J_TWidget" data-widget-config="{&quot;trigger&quot;:&quot;.pop2141202133155&quot;,&quot;align&quot;:{&quot;node&quot;:&quot;.pop2141202133155&quot;,&quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;],&quot;offset&quot;:[0,0]}}" data-widget-type="Popup" style="display:none;">
+									<div class="shangyizhang" style="width:28px;background:url(//gdp.alicdn.com/imgextra/i3/788358641/O1CN01ZcBWHp2DhcwUa91kr_!!788358641.png) no-repeat -28px 0px;height:28px;cursor:pointer;">
+										 <span>&nbsp;</span>
+									</div>
+								</div>
+							</li>
+							<li class="pop3141202133155" style="display:inline;float:left;margin-left:5px;cursor:pointer;">
+								<div style="width:28px;background:url(//gdp.alicdn.com/imgextra/i3/788358641/O1CN01ZcBWHp2DhcwUa91kr_!!788358641.png) no-repeat -56px -28px;height:28px;">
+									 <span>&nbsp;</span>
+								</div>
+								<div class="J_TWidget" data-widget-config="{&quot;trigger&quot;:&quot;.pop3141202133155&quot;,&quot;align&quot;:{&quot;node&quot;:&quot;.pop3141202133155&quot;,&quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;],&quot;offset&quot;:[0,0]}}" data-widget-type="Popup" style="display:none;">
+									<div class="shangyizhang" style="width:28px;background:url(//gdp.alicdn.com/imgextra/i3/788358641/O1CN01ZcBWHp2DhcwUa91kr_!!788358641.png) no-repeat -56px 0px;height:28px;cursor:pointer;">
+										 <span>&nbsp;</span>
+									</div>
+								</div>
+							</li>
+							<li class="pop4141202133155" style="display:inline;float:left;margin-left:5px;cursor:pointer;">
+								<div style="width:28px;background:url(//gdp.alicdn.com/imgextra/i3/788358641/O1CN01ZcBWHp2DhcwUa91kr_!!788358641.png) no-repeat -84px -28px;height:28px;">
+									 <span>&nbsp;</span>
+								</div>
+								<div class="J_TWidget" data-widget-config="{&quot;trigger&quot;:&quot;.pop4141202133155&quot;,&quot;align&quot;:{&quot;node&quot;:&quot;.pop4141202133155&quot;,&quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;],&quot;offset&quot;:[0,0]}}" data-widget-type="Popup" style="display:none;">
+									<div class="shangyizhang" style="width:28px;background:url(//gdp.alicdn.com/imgextra/i3/788358641/O1CN01ZcBWHp2DhcwUa91kr_!!788358641.png) no-repeat -84px 0px;height:28px;cursor:pointer;">
+										 <span>&nbsp;</span>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
